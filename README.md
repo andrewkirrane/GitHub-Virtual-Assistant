@@ -10,11 +10,23 @@ conda install Flask, flask-cors, torch, torchvision, nltk
 ```
 You will also need to activate python and download a specific nltk package.
 ```
-$ python3
+$ python
 >>> import nltk
 >>> nltk.download('punkt')
 ```
-Once this has been done, you can run the code yourself, starting with the train.py file. This will take in the dataset 'GitHub_FAQ.json' and train the neural net so that it is ready to chat (This should dump the saved model as model.pth). From here you are able to run the bot.py file, which is a fully functioning terminal based application for the chatbot. If you want to utilize the frontend for a better user experience, run the app.py file to start the flask app in the background. Then, with the help of the live server extension in VS Code, 'Go Live' from the base.html file. This should display the full user interface for the best interaction with the chatbot.
+Once this has been done, you can run the code yourself, starting with the train.py file. This will take in the dataset 'GitHub_FAQ.json' and train the neural net so that it is ready to chat (This should dump the saved model as model.pth).
+```
+>>> python train.py
+```
+From here you are able to run the bot.py file, which is a fully functioning terminal based application for the chatbot.
+```
+>>> python bot.py
+```
+If you want to utilize the frontend for a better user experience, run the app.py file to start the flask app in the background. 
+```
+>>> python app.py
+```
+Then, with the help of the live server extension in VS Code, 'Go Live' from the base.html file. This should display the full user interface for the best interaction with the chatbot.
 
 ### Tips
 
