@@ -4,7 +4,7 @@ This project is a fully functional virtual assistant program that is targeted at
 
 ## Running the code yourself
 
-In order to run this program, it is best to create a virtual environment before downloading packages and libraries, my personal choice was Anaconda (I will be using Anaconda syntax for examples, syntax may vary across programs). Once you have created the environment and activated it, you will need to download the following packages to run the main program.
+In order to run this program, it is best to create a virtual environment before downloading packages and libraries, my personal choice was Anaconda (I will be using Anaconda syntax for examples, syntax may vary across programs). Once you have created the environment and activated it, you will need to download the following libraries to run the main program.
 ```
 conda install Flask, flask-cors, torch, torchvision, nltk
 ```
@@ -19,3 +19,9 @@ Once this has been done, you can run the code yourself, starting with the train.
 ### Tips
 
 This chatbot gives the best, most accurate responses to general questions about GitHub, such as the general purpose of the tool itself or other information that differentiates GitHub from its competition. Without copious amounts of public data, it may struggle to provide accurate answers to extremely specific questions.
+
+## What went into this project
+
+I worked on this project on and off for about 2 months. Throughout the process I was able to build my first web scraper, albeit only a static one, and I was also exposed to the frontend languages for the first time. I built a full pipeline that collects data, cleans and stores it, utilizes it to train a model which is then saved, and finally uses the saved model to create predicted responses to user inputs and displays them on a clean UI. I had a lot of fun figuring out the new technologies and putting together a polished, finished product.
+
+**Feel free to download the code and play around with it!**
