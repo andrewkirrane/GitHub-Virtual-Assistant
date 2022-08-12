@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "tag": "What is GitHub and how does it work",
+            "patterns": [
+                "What is GitHub",
+                "How does GitHub work",
+                "How can you use GitHub",
+                "Can you share code on Github",
+                "Can you contribute to open source projects on GitHub",
+                "Can you automate your work with GitHub",
+                "Is GitHub good for collaboration",
+                "Does GitHub have version control"
+            ],
+            "responses": [
+                "GitHub is the home for all developers—a platform where you can share code, contribute to open source projects, or even automate your workflow with tools like GitHub Actions and Packages. If you’re just getting started with GitHub, you may know us best as a place for version control and collaboration."
+            ]
+        },
+        {
+            "tag": "How do I see GitHub’s availability",
+            "patterns": [
+                "How do I see GitHub’s availability",
+                "Is GitHub available",
+                "Does GitHub have a real time status report",
+                "Are Github's systems operational",
+                "Are there any GitHub services that are currently down",
+                "What GitHub services are working"
+            ],
+            "responses": [
+                "Check our real-time status report\nhttps://www.githubstatus.com/"
+            ]
+        },
+        {
+            "tag": "Why is GitHub so popular",
+            "patterns": [
+                "Why is GitHub so popular",
+                "What are some of GitHub's achievements and milestones",
+                "Is Github a large open source community"
+            ],
+            "responses": [
+                "GitHub is built by developers for developers, and we’re proud to be home to the world’s largest open source community. With 50 million developers and millions more open source projects, GitHub has become the go-to place to collaborate and build software together.\nhttps://github.com/about/milestones"
+            ]
+        },
+        {
+            "tag": "Who is GitHub for",
+            "patterns": [
+                "Who is GitHub for",
+                "Can I use GitHub for personal projects",
+                "Who uses GitHub",
+                "Can I use GitHub for a small group project",
+                "Can a college professor use GitHub for a class",
+                "Is GitHub helpful for project managers",
+                "Is GitHub worth using in a large company"
+            ],
+            "responses": [
+                "It’s not just developers who build on GitHub—Fortune 500 companies, small teams, project managers, and college professors all use GitHub to do their best work, in one place.\nhttps://github.com/readme"
+            ]
+        },
+        {
+            "tag": "Do people use GitHub only for code",
+            "patterns": [
+                "Do people use GitHub only for code",
+                "Can GitHub manage teams",
+                "Can you share resumes with GitHub",
+                "Can you track projects with GitHub",
+                "Can you have online discussions with GitHub"
+            ],
+            "responses": [
+                "Different people and teams use GitHub for different projects. While we got our start as a version control platform, GitHub is now used to manage teams, share resumes, find new projects, track work, and host discussions, just to name a few.\nhttps://github.com/explore"
+            ]
+        },
+        {
+            "tag": "Why should I use GitHub",
+            "patterns": [
+                "Why should I use GitHub",
+                "Does GitHub shape the future of software and coding",
+                "Can using GitHub help grow my skills"
+            ],
+            "responses": [
+                "GitHub isn’t just a place to share code. It’s a chance to do something bigger. On GitHub, you can shape the future of software, work with the best developers in the world, and grow your skills and help others.\nhttps://octoverse.github.com/"
+            ]
+        },
+        {
+            "tag": "Are Git and GitHub the same",
+            "patterns": [
+                "Are Git and GitHub the same",
+                "What is a Git repository",
+                "What is a version control system",
+                "Is there a manual for GitHub",
+                "Is there a handbook for GitHub"
+            ],
+            "responses": [
+                "Git is a version control system (VCS). GitHub is the platform where Git repositories can be hosted and teams can work on them together.\nhttps://guides.github.com/introduction/git-handbook/"
+            ]
+        },
+        {
+            "tag": "Do I need Git in order to use GitHub",
+            "patterns": [
+                "Do I need Git in order to use GitHub",
+                "Can I use GitHub with a Subversion client",
+                "Can I use GitHub with another client besides Git"
+            ],
+            "responses": [
+                "GitHub repositories can be accessed from both Git and Subversion (SVN) clients.\nhttps://docs.github.com/en/github/importing-your-projects-to-github/support-for-subversion-clients"
+            ]
+        },
+        {
+            "tag": "Is GitHub safe",
+            "patterns": [
+                "Is GitHub safe",
+                "What security does GitHub have",
+                "Does GitHub offer code security"
+            ],
+            "responses": [
+                "Millions of teams trust GitHub to keep their work safe. While security incidents can happen, our GitHub Security Team goes beyond industry standards to keep you and your code secure.\nhttps://github.com/security"
+            ]
+        },
+        {
+            "tag": "Is GitHub free",
+            "patterns": [
+                "Is GitHub free",
+                "Are public and private repositories free",
+                "What is GitHub Pro",
+                "What is GitHub Team",
+                "What is GitHub Enterprise",
+                "Is there a Github membership",
+                "Are there any paid or premium plans for GitHub",
+                "Does GitHub have extra features"
+            ],
+            "responses": [
+                "All GitHub users and teams get free, unlimited access to public and private repositories. But if you’re looking for more collaboration features, security controls, and deployment options, we also offer paid plans: GitHub Pro, GitHub Team at $4 per user/month, and GitHub Enterprise at $21 per user/month.\nhttps://github.com/pricing"
+            ]
+        },
+        {
+            "tag": "Is GitHub owned by Microsoft",
+            "patterns": [
+                "Is GitHub owned by Microsoft",
+                "Who owns GitHub",
+                "Who runs GitHub"
+            ],
+            "responses": [
+                "Microsoft acquired GitHub in 2018. You can read more about it in our announcement here.\nhttps://github.blog/2018-10-26-github-and-microsoft/"
+            ]
+        },
+        {
+            "tag": "How do I start using GitHub",
+            "patterns": [
+                "How do I start using GitHub",
+                "How do I set up a GitHub account",
+                "Is there an activation guide"
+            ],
+            "responses": [
+                "All you need is a GitHub account and internet access.\nhttps://guides.github.com/activities/hello-world/"
+            ]
+        }
+    ]
+}
