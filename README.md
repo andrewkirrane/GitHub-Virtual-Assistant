@@ -34,6 +34,6 @@ This chatbot gives the best, most accurate responses to general questions about 
 
 ## What went into this project
 
-I worked on this project on and off for about 2 months. Throughout the process I was able to build my first web scraper, albeit only a static one, and I was also exposed to the frontend languages for the first time. I built a full pipeline that collects data, cleans and stores it, utilizes it to train a model which is then saved, and finally uses the saved model to create predicted responses to user inputs and displays them on a clean UI. I had a lot of fun figuring out the new technologies and putting together a polished, finished product.
+I worked on this project on and off for about 2 months. Throughout the process I was able to build my first web scraper and I was also exposed to the frontend languages for the first time. I also had the opportunity to do some feature engineering on the GitHub FAQs so that the answers had a broader range of possible questions. I built a full pipeline that collects data, cleans and stores it, utilizes it to train a model which is then saved, and finally uses the saved model to create predicted responses to user inputs and displays them on a clean UI. I had a lot of fun figuring out the new technologies and putting together a polished finished product.
 
 **Feel free to download the code and play around with it!**
