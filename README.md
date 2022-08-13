@@ -1,6 +1,6 @@
 # GitHub Virtual Assistant
 
-This project is a fully functional virtual assistant program that is targeted at answering GitHub's most frequently asked questions. There are many layers in the construction of the build including web scraping and data cleaning, a full neural network, and a built out frontend for a thourough user experience.
+This project is a fully functional virtual assistant program that is targeted at answering GitHub's most frequently asked questions. There are many layers in the construction of the build including web scraping and data cleaning, a full neural network, and a built out frontend for a thorough user experience.
 
 ## Running the code yourself
 
